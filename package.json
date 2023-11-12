@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@tonejs/ui": "0.0.9",
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "core-js": "^3.8.3",
     "nexusui": "^2.1.6",
     "tone": "^13.8.34",
